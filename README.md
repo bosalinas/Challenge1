@@ -5,12 +5,8 @@
       Changed accessibilty and optimized to use with search engine.
   
 ## Webdocument screenshot
-  Image 1 (horiseon.img1.png)
-  Image 2 (horiseon.img2.png)
+  ![Horiseon screenshot 1](/Assests/Final%20Images/horiseon-img1.png)
+  ![Horiseon screenshot 2](/Assests/Final%20Images/horiseon-img2.png)
 
 ## Github page
-
-## Description of Horiseon webducment
-screenshot 
-description
-link to github pages
+  
