@@ -9,4 +9,4 @@
   ![Horiseon screenshot 2](/Assests/Final%20Images/horiseon-img2.png)
 
 ## Github page
-  
+  https://bosalinas.github.io/Horiseon-website/
